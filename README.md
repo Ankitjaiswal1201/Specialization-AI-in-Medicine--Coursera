@@ -1,1 +1,1 @@
-# Specialization-AI-in-Medicine.-Coursera
+# Specialization-AI-in-Medicine -Coursera
