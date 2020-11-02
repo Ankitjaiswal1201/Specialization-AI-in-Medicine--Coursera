@@ -1,10 +1,39 @@
-# Specialization-AI-in-Medicine -Coursera
+**[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicin?)**
 
-AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. As an AI practitioner, the opportunity to join in this transformation of modern medicine is huge. 
+I have completed this specialization from Coursera by deeplearning.ai. 
+This specialization consists of 3 courses.1) AI for Medical Diagnosis, 2) AI for Medical Prognosis and 3) AI for Medical Treatment. 
+I have learned many things ,such as: Diagnosing diseases from x-rays and 3D MRI brain images,Predicting patient survival rates more accurately using tree-based models,Estimating treatment effects on patients using data from randomized trials , Automating the task of labeling medical datasets using natural language processing etc.
 
-This program gives practical experience in applying cutting-edge machine learning techniques to concrete problems in modern medicine: -
- In Course 1, I created convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
- In Course 2, I built risk models and survival estimators for heart disease using statistical methods and a random forest predictor to determine patient prognosis. 
- In Course 3, I built a treatment effect predictor, apply model interpretation techniques and use natural language processing to extract information from radiology reports. 
- 
- These courses go beyond the foundations of deep learning to give you insight into the nuances of applying AI to medical use cases. 
++ **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
+  + Week 1
+    + Chest X-Ray Medical Diagnosis with Deep Learning 
+  + Week 2
+    + Evaluation of Diagnostic Models
+  + Week 3
+    + Brain Tumor Auto-Segmentation for MRI
+
+**[Certificate](https://www.coursera.org/account/accomplishments/certificate/ZYPVFP4DFWB7)**
+
++ **[AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)**
+  + Week 1
+    + Diagnosing Diseases using Linear Risk Models
+  + Week 2
+    + Risk Models Using Machine Learning
+  + Week 3
+    + Non-Parametric Estimators for Survival Analysis
+  + Week 4
+    + Cox Proportional Hazards and Random Survival Forests
+    
+**[Certificate](https://www.coursera.org/account/accomplishments/certificate/WN2P5JBK7G4V)**
+    
++ **[AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)**
+  + Week 1
+    + Estimating Treatment Effect Using Machine Learning
+  + Week 2
+    + Natural Language Entity Extraction
+  + Week 3
+    + ML Interpretation 
+    
+**[Certificate](https://www.coursera.org/account/accomplishments/certificate/MR2CVGCRFSP8)**
+    
+ Please give **Star** or **Fork** if you like it. Thanks.
